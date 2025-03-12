@@ -1,0 +1,15 @@
+{
+  "name": "maheshpur library",
+  "books": [
+    {
+      "title": "Golang Mastery",
+      "author": "Alice Brown",
+      "price": 50
+    },
+    {
+      "title": "Concurrency in Go",
+      "author": "Bob White",
+      "price": 45
+    }
+  ]
+}
